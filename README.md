@@ -14,13 +14,14 @@
 -->
 
 - 🔭 I’m currently working on <a href="https://grafcet.com.br/">Grafcet</a> <br>
-- 🌱 I’m currently learning Java and NodeJS <br>
+- 🌱 I’m currently learning Java and JS <br>
 - 📫 How to reach me: nic.rabello@gmail.com <br>
 
 
 <div>
 <h3>Technologies</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="5%" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="5%"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-basic.png" alt="visual-basic"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="5%" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="5%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="5%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="5%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="5%" />  &zwnj; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="5%"/>
+
          
           
 </div>
