@@ -1,7 +1,9 @@
 <h1 align="center"><i>Hello, i'm Nicolas👋</i></h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="170"/> 
+  <a href="https://youtu.be/WZIGwN-5Ioo?si=DjYU3l2wQkpkVgTS">
+    <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="170"/>
+  </a> 
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/nicolas_rabellop/"><img src=https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white width="82" height="21px"></a>
