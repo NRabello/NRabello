@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRabello&layout=compact">
 -->
 
-- 🔭 I’m currently working on <a href="https://grafcet.com.br/">Grafcet</a> <br>
+- 🔭 I’m a Software Devoloper <br>
 - 🌱 I’m currently learning Java and JS <br>
 - 📫 How to reach me: nic.rabello@gmail.com <br>
 
